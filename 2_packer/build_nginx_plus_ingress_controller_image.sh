@@ -24,7 +24,7 @@ cp ~/certs/nginx-repo.* .
 
 # Make KIC without App Protect
 
-#sudo make DOCKERFILE=DockerfileForPlus PREFIX=dockerregistry.workshop0001.nginxdemo.net:443/nginx-plus-ingress
+#sudo make DOCKERFILE=DockerfileForPlus                         PREFIX=dockerregistry.workshop0001.nginxdemo.net:443/nginx-plus-ingress
 
 # Make KIC with App protect included
 
